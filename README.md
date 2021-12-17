@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Sachin Kumar . Passionate about all things Java and Javascript development. 
+### Hi there 👋 I'm Sachin Kumar ! Passionate about all things Java and Javascript development. 
 
 <!--
 **sachinkumar579/sachinkumar579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
