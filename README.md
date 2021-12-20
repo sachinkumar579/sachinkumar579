@@ -3,6 +3,6 @@ Skilled in developing backend services using Java, Springboot and related techno
 
 - 🔭 I’m currently working on UI development using ReactJS
 - 🌱 I’m currently learning Responsive web design
-- 👯 Ask me about Java
+- &#128102; Ask me about Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar579)](https://github.com/sachinkumar579/github-readme-stats)
