@@ -6,3 +6,5 @@ Skilled in developing UIs and building backend services using content management
 - &#128102; Ask me about Javascript and Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar579)](https://github.com/sachinkumar579/github-readme-stats)
+
+[LinkedIn](https://www.linkedin.com/in/sachuration/)  [Twitter](https://twitter.com/sachuration)
