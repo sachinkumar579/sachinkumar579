@@ -1,4 +1,4 @@
-<p align="center"> Hi there 👋 I'm Sachin Kumar ! Passionate about all things Java and Javascript development. 
+<p align="center"> I'm Sachin Kumar ! Passionate about all things Java and Javascript development. 
 Skilled in developing UIs and building backend services using content management software's. </p> 
 
 - 🔭 I’m currently building UI applications using ReactJS
