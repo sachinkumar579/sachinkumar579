@@ -5,4 +5,6 @@ Skilled in developing UIs and building backend services using content management
 - 🌱 I’m currently learning Responsive web design
 - &#128102; Ask me about Javascript and Java
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar579)](https://github.com/sachinkumar579/github-readme-stats)
+</p>
