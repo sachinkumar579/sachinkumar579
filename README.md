@@ -1,5 +1,5 @@
 <p align="center"> I'm Sachin Kumar ! Passionate about all things Java and Javascript development. 
-Skilled in developing UIs and building backend services using content management software's. </p> 
+Skilled in building backend services using content management software's and developing UIs. </p> 
 
 - 🔭 I’m currently building UI applications using ReactJS
 - 🌱 I’m currently learning Responsive web design
