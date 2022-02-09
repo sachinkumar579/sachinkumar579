@@ -3,7 +3,7 @@ Skilled in building backend services using content management software's and dev
 
 - 🔭 I’m currently building UI applications using ReactJS
 - 🌱 I’m currently learning Responsive web design
-- &#128102; Ask me about Javascript and Java
+- &#128102; Ask me about Java and Javascript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar579)](https://github.com/sachinkumar579/github-readme-stats)
 
