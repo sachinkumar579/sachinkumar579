@@ -2,7 +2,6 @@
 Skilled in building backend services using content management software's and developing UIs. </p> 
 
 - 🔭 I’m currently building full fledged applications using ReactJS and Spring boot
-- 🌱 I’m currently learning Responsive web design
 - &#128102; Ask me about Java and Javascript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar579)](https://github.com/sachinkumar579/github-readme-stats)
