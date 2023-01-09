@@ -1,5 +1,4 @@
-<p align="center"> I'm Sachin Kumar ! Passionate about all things Java and Javascript development. 
-Skilled in building backend services using content management software's and developing UIs. </p> 
+<p align="center"> I'm Sachin Kumar ! Passionate about all things Java and Javascript development. </p> 
 
 <p align="center"> Java , ReactJS, Spring boot , Docker , Kubernetes , Javascript , Typescript , Angular , nodejs </p>
 
