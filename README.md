@@ -1,7 +1,7 @@
 <p align="center"> I'm Sachin Kumar ! Passionate about all things Java and Javascript development. 
 Skilled in building backend services using content management software's and developing UIs. </p> 
 
-- Java , ReactJS, Spring boot , Docker , Kubernetes , Javascript , Typescript , Angular , nodejs
+<p align="center"> Java , ReactJS, Spring boot , Docker , Kubernetes , Javascript , Typescript , Angular , nodejs </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar579)](https://github.com/sachinkumar579/github-readme-stats)
 
