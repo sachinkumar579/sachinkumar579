@@ -1,4 +1,4 @@
-<p align="center"> I'm Sachin ! Passionate about all things Java and Javascript development. </p> 
+<p align="center"> I'm Sachin </p> 
 
 <p align="center"> Java , ReactJS , Spring boot , Javascript , Typescript , Angular , nodejs </p>
 
