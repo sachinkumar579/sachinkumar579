@@ -1,6 +1,6 @@
 <p align="center"> I'm Sachin </p> 
 
-<p align="center"> Java , ReactJS , Spring boot , Javascript , Typescript , Angular , nodejs </p>
+<p align="center"> Java , Spring boot , Javascript </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar579)](https://github.com/sachinkumar579/github-readme-stats)
 
