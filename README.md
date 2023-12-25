@@ -1,4 +1,3 @@
-<p align="center"> I'm Sachin </p> 
 
 <p align="center"> Java , Spring boot , Javascript </p>
 
